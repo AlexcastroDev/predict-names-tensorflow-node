@@ -1,0 +1,17 @@
+{
+  "name": "tensorflow-names",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.mjs"
+  },
+  "devDependencies": {
+    "@tensorflow/tfjs": "^4.4.0",
+    "@tensorflow/tfjs-node": "^4.4.0",
+    "convert-csv-to-json": "^2.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
